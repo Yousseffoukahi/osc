@@ -1,0 +1,305 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    cursor:-moz-grabbing;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-transform:capitalize ;
+    border-radius: 10px 10px;
+    margin-top: 10px;
+    width: 950PX;
+    letter-spacing: 2px;
+    margin-left: 20px;
+}
+.dd1{
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 30px;
+    height: 45VH;
+    padding-top: 25px;
+    text-align: center;
+    margin-left: 40px;
+}
+.dd1 .p{
+    padding: 15px;
+    font-size: 12px;
+}
+.dd1 .c1{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd1 .c2{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd1 .c3{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd1 .c4{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd2{
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 30px;
+    height: 45VH;
+    padding-top: 25px;
+    text-align: center;
+    margin-left: -20px;
+}
+.dd2 .p{
+    padding: 15px;
+    font-size: 12px;
+}
+.dd2 .c1{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd2 .c2{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd2 .c3{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd2 .c4{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd3{
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 30px;
+    margin-left: -20px;
+    height: 45VH;
+    padding-top: 25px;
+    text-align: center;
+}
+.dd3 .p{
+    padding: 15px;
+    font-size: 12px;
+}
+.dd3 .c1{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd3 .c2{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd3 .c3{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.dd3 .c4{
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    width: 150px;
+    height: -10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.conexion{
+    float: right;
+    position: relative;
+    right: 85px;
+    padding-left:10px ;
+    border: 1PX solid black;
+    height: 51vh;
+    width: 220px; 
+    top: 30px;
+    
+}
+.conexion h2{
+    text-align: center;
+    padding-top: 25px;
+
+}
+.conexion .red{
+    padding-top: 15px;
+}
+nav p{
+    margin-top: -50px;
+    display: inline;
+    position: relative;
+    bottom: 20px;
+    font-size: 20px;
+    color: blue;
+}
+.conexion h5{
+    background-color: rgb(18, 19, 19);
+    color: antiquewhite;
+    /* width: 230px; */
+    height: 20px;
+    padding-top: 10px;
+    text-align: center;
+    margin: 10px;
+    margin-left: -6px;
+    border-radius: 10px;
+}
+nav img{
+    height: 50px;
+    margin-left: 20px;
+}
+nav li{
+    padding: 10px;
+}
+.footer{
+    background-color: black;
+    width: 950px;
+    height: 40px;
+    margin-top: 140px;
+    color: white;
+   padding-bottom: 20px;
+    margin-left: -700px;
+    display: flex;
+    justify-content:flex-end;
+    border-radius: 10px;
+}
+.footer P {
+    padding: 20px;
+}
+@media screen and (max-width:750px) {
+    nav ul{ display: block;
+    /* text-align: center;} */
+}
+    .dd1{float: none;
+    height: 300px;
+    width: 200px;
+    margin-left: 40px;}
+    .dd2{float: none;    
+        height: 300px;
+        width: 200px;
+        margin-left: 40px;}
+    .dd3{float: none;    
+        height: 300px;
+        width: 200px;
+        margin-left: 40px;}
+    .conexion{float: none;    
+        height: 300px;
+        width: 210px;
+        margin-left: 125px;}
+}
+@media screen and (min-width:751px) and (max-width:880px) {
+    nav ul{ display: block;
+    /* text-align: center;} */
+}
+    .dd1{float: left;
+    height: 300px;
+    width: 200px;
+    margin-left: 40px;}
+    .dd2{float: left;    
+        height: 300px;
+        width: 200px;
+        margin-left: 40px;}
+    .dd3{float: left;    
+        height: 300px;
+        width: 200px;
+        margin-left: 40px;}
+    .conexion{float: left;    
+        height: 330px;
+        width: 210px;
+        margin-left: 125px;}
+}
+@media screen and (min-width:881px) and (max-width:1000px) {
+
+    .dd1{float: left;
+    height: 300px;
+    width: 200px;
+    margin-left: 40px;}
+    .dd2{float: left;    
+        height: 300px;
+        width: 200px;
+        margin-left: 40px;}
+    .dd3{float: none;    
+        height: 300px;
+        width: 200px;
+        position: absolute;
+        margin-top: 430px;
+        margin-left: 40px;}
+    .conexion{float: left;    
+        height: 320px;
+        width: 210px;
+        margin-left: 420px;}
+}
